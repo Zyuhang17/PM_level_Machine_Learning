@@ -1,0 +1,21 @@
+Name,L_ID,Type,X_coord,Y_coord,Longitude,Latitude,Level,Center Lattitude,Center longitude
+Mumbai,1,industrial,355,550,,,1,19.076,72.877
+Mumbai,2,industrial,50,-50,,,1,19.076,72.877
+Mumbai,3,industrial,175,500,,,0,19.076,72.877
+Mumbai,4,industrial,50,250,,,2,19.076,72.877
+Mumbai,5,industrial,200,520,,,1,19.076,72.877
+Mumbai,6,rural,-250,150,,,0,19.076,72.877
+Mumbai,7,rural,375,475,,,0,19.076,72.877
+Mumbai,8,rural,65,150,,,0,19.076,72.877
+Mumbai,9,rural,350,50,,,0,19.076,72.877
+Mumbai,10,rural,250,675,,,0,19.076,72.877
+Mumbai,11,urban,-350,450,,,0,19.076,72.877
+Mumbai,12,urban,-150,150,,,0,19.076,72.877
+Mumbai,13,urban,-650,150,,,0,19.076,72.877
+Mumbai,14,urban,-450,250,,,0,19.076,72.877
+Mumbai,15,urban,350,625,,,0,19.076,72.877
+Mumbai,16,residential,185,450,,,0,19.076,72.877
+Mumbai,17,residential,-150,350,,,0,19.076,72.877
+Mumbai,18,residential,300,600,,,0,19.076,72.877
+Mumbai,19,residential,350,575,,,0,19.076,72.877
+Mumbai,20,residential,195,475,,,0,19.076,72.877

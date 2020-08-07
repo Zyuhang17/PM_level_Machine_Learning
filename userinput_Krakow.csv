@@ -1,0 +1,21 @@
+Name,L_ID,Type,X_coord,Y_coord,Longitude,Latitude,Level,Center Lattitude,Center longitude
+Krakow,1,industrial,50,50,,,1,50.064,19.945
+Krakow,2,industrial,50,-50,,,1,50.064,19.945
+Krakow,3,industrial,-50,50,,,0,50.064,19.945
+Krakow,4,industrial,-50,-50,,,2,50.064,19.945
+Krakow,5,industrial,450,150,,,1,50.064,19.945
+Krakow,6,rural,-250,-250,,,0,50.064,19.945
+Krakow,7,rural,-350,150,,,0,50.064,19.945
+Krakow,8,rural,-550,-450,,,0,50.064,19.945
+Krakow,9,rural,-350,-550,,,0,50.064,19.945
+Krakow,10,rural,250,-750,,,0,50.064,19.945
+Krakow,11,urban,-350,450,,,0,50.064,19.945
+Krakow,12,urban,-150,-50,,,0,50.064,19.945
+Krakow,13,urban,-650,150,,,0,50.064,19.945
+Krakow,14,urban,-450,250,,,0,50.064,19.945
+Krakow,15,urban,-350,-550,,,0,50.064,19.945
+Krakow,16,residential,-450,-450,,,0,50.064,19.945
+Krakow,17,residential,-550,350,,,0,50.064,19.945
+Krakow,18,residential,-550,150,,,0,50.064,19.945
+Krakow,19,residential,350,-450,,,0,50.064,19.945
+Krakow,20,residential,550,550,,,0,50.064,19.945

@@ -1,0 +1,21 @@
+Name,L_ID,Type,X_coord,Y_coord,Longitude,Latitude,Level,Center Lattitude,Center longitude
+Chicago,1,industrial,-400,-400,,,1,41.871,-87.6298
+Chicago,2,industrial,50,-50,,,1,41.871,-87.6298
+Chicago,3,industrial,-375,-415,,,0,41.871,-87.6298
+Chicago,4,industrial,-50,-50,,,2,41.871,-87.6298
+Chicago,5,industrial,-325,-375,,,1,41.871,-87.6298
+Chicago,6,rural,-250,-150,,,0,41.871,-87.6298
+Chicago,7,rural,-350,150,,,0,41.871,-87.6298
+Chicago,8,rural,-550,-450,,,0,41.871,-87.6298
+Chicago,9,rural,-350,-550,,,0,41.871,-87.6298
+Chicago,10,rural,-250,-750,,,0,41.871,-87.6298
+Chicago,11,urban,-350,450,,,0,41.871,-87.6298
+Chicago,12,urban,-150,-150,,,0,41.871,-87.6298
+Chicago,13,urban,-650,150,,,0,41.871,-87.6298
+Chicago,14,urban,-450,250,,,0,41.871,-87.6298
+Chicago,15,urban,-350,-550,,,0,41.871,-87.6298
+Chicago,16,residential,-450,-450,,,0,41.871,-87.6298
+Chicago,17,residential,-550,350,,,0,41.871,-87.6298
+Chicago,18,residential,-550,150,,,0,41.871,-87.6298
+Chicago,19,residential,50,-450,,,0,41.871,-87.6298
+Chicago,20,residential,-300,-375,,,0,41.871,-87.6298

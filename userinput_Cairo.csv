@@ -1,0 +1,21 @@
+Name,L_ID,Type,X_coord,Y_coord,Longitude,Latitude,Level,Center Lattitude,Center longitude
+Cairo,1,industrial,50,50,,,1,30.044,31.2357
+Cairo,2,industrial,50,-50,,,1,30.044,31.2357
+Cairo,3,industrial,-50,50,,,0,30.044,31.2357
+Cairo,4,industrial,-50,-50,,,2,30.044,31.2357
+Cairo,5,industrial,50,150,,,1,30.044,31.2357
+Cairo,6,rural,-250,-150,,,0,30.044,31.2357
+Cairo,7,rural,-350,-350,,,0,30.044,31.2357
+Cairo,8,rural,-550,-450,,,0,30.044,31.2357
+Cairo,9,rural,-350,-550,,,0,30.044,31.2357
+Cairo,10,rural,150,150,,,0,30.044,31.2357
+Cairo,11,urban,-350,450,,,0,30.044,31.2357
+Cairo,12,urban,-150,-150,,,0,30.044,31.2357
+Cairo,13,urban,-650,150,,,0,30.044,31.2357
+Cairo,14,urban,-450,250,,,0,30.044,31.2357
+Cairo,15,urban,-350,-550,,,0,30.044,31.2357
+Cairo,16,residential,-450,-450,,,0,30.044,31.2357
+Cairo,17,residential,450,350,,,0,30.044,31.2357
+Cairo,18,residential,-550,150,,,0,30.044,31.2357
+Cairo,19,residential,50,-450,,,0,30.044,31.2357
+Cairo,20,residential,50,550,,,0,30.044,31.2357
